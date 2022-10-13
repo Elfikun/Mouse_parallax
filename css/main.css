@@ -23,7 +23,7 @@ body {
 }
 
 .magic-list__item {
-	/* cursor: none; */
+	cursor: none;
 	color: var(--black);
 	text-decoration: none;
 	display: block;
